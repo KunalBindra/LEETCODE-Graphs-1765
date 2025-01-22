@@ -1,6 +1,4 @@
 # LEETCODE-Graphs-1765
-This code snippet implements a solution to calculate the highest peak matrix for a given `isWater` matrix. Let's break it down:
-
 ### **Problem Understanding**
 The `isWater` matrix has the following rules:
 - `isWater[i][j] == 1`: The cell `(i, j)` is water.
